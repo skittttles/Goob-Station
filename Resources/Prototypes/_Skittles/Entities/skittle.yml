@@ -1,0 +1,15 @@
+- type : entity
+  name : rat plush
+  parent: BaseItem
+  id: ratPlush
+  description : Seems to bark?
+  components:
+  - type: Sprite
+    sprite:  _Skittles/Objects/rat.rsi
+    state: icon
+  - type: Item
+    size: Normal
+  - type: EmitSoundOnActivate
+    sound: /Audio/_Skittles/Objects/dog.ogg
+  - type: UseDelay
+    delay: 0.5
