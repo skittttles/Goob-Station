@@ -13,3 +13,5 @@
     sound: /Audio/_Skittles/Objects/dog.ogg
   - type: UseDelay
     delay: 0.5
+  - type: DamagePlayerOnUse
+    damage: 600
