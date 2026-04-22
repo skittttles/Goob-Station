@@ -1328,16 +1328,6 @@
     state: arrowright
 
 - type: decal
-  id: bigsquare
-  tags: ["crayon", "crayon-1-brushes"]
-  defaultCleanable: true
-  defaultCustomColor: true
-  defaultSnap: false
-  sprite:
-    sprite: Effects/crayondecals.rsi
-    state: bigsquare
-
-- type: decal
   id: freeaa
   tags: ["crayon", "crayon-5-graffiti"]
   defaultCleanable: true
